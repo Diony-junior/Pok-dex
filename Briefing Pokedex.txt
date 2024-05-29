@@ -1,0 +1,9 @@
+Na página principal quero um cabeçalho com a logo da franquia, contendo um menu de navegação com atalhos para conteudos sobre o jogo e curiosidades.
+
+Logo na pagina principal haverá o inicio da pokedéxn cada pokémon com seu respectivo número e tipagem.
+
+Haverá também uma barra de pesquisa para ir direto ao pokémon que deseja ver.
+
+No rodapé da página principal colocarei as redes sociais e informações de contato.
+
+E também colocarei uma aba sobre o que é o mundo pokémon.
