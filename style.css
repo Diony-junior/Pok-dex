@@ -1,0 +1,67 @@
+*{
+  background-color: white;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.principal_div{
+  width: 400px;
+  height: 400px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  margin-top: auto;
+  margin-bottom: 20px;
+}
+
+.principal_imagem{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul{
+  list-style: none;
+}
+
+.pokemon_name{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pokemon_number{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.pokemon_img{
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pokemon_type{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.pokemon_type_grass{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: greenyellow;
+  background-color: rgb(117, 180, 22);
+}
