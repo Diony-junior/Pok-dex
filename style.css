@@ -1,5 +1,5 @@
-*{
-  background-color: white;
+body{
+  
 }
 
 .container{
@@ -35,6 +35,7 @@ ul{
   flex-direction: row;
   justify-content: center;
   margin-top: 20px;
+  color: white;
 }
 
 .pokemon_number{
@@ -56,12 +57,158 @@ ul{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin-top: 15px;
 }
 
-.pokemon_type_grass{
+.pokemon_type_grass span{
   border: solid 1px;
   padding: 3px 25px;
   border-radius: 20px;
   border-color: greenyellow;
   background-color: rgb(117, 180, 22);
+  color: white
+}
+
+.pokemon_type_poison span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(250, 23, 250);
+  background-color: rgb(188, 6, 233);
+  color: white;
+}
+
+.pokemon_type_fire span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(253, 190, 71);
+  background-color: rgb(255, 123, 0);
+  color: white;
+}
+
+.pokemon_type_flying span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(0, 247, 255);
+  background-color: rgb(2, 190, 190);
+  color: white;
+}
+
+.pokemon_type_water span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: darkcyan;
+  background-color: rgb(58, 137, 241);
+  color: white;
+}
+
+.pokemon_type_bug span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(3, 221, 3);
+  background-color: rgb(2, 153, 2);
+  color: white;
+}
+
+.pokemon_type_normal span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: gainsboro;
+  background-color: gray;
+  color: white;
+}
+
+.pokemon_type_electric span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: yellow;
+  background-color: rgb(224, 191, 0);
+  color: white;
+}
+
+.pokemon_type_ground span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: wheat;
+  background-color: rgb(197, 162, 96);
+  color: white;
+}
+
+.pokemon_type_fairy span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(248, 134, 248);
+  background-color: hotpink;
+  color: white;
+}
+
+.pokemon_type_fighting span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: orange;
+  background-color: orangered;
+  color: white;
+}
+
+.pokemon_type_psychic span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(248, 134, 248);
+  background-color: rgb(255, 61, 158);
+  color: white;
+}
+
+.pokemon_type_rock span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(172, 99, 57);
+  background-color: rgb(172, 99, 57);
+  color: white;
+}
+
+.pokemon_type_steel span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(81, 146, 199);
+  background-color: steelblue;
+  color: white;
+}
+
+.pokemon_type_ice span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: lightskyblue;
+  background-color: rgb(82, 182, 245);
+  color: white;
+}
+
+.pokemon_type_ghost span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: mediumpurple;
+  background-color: rgb(121, 74, 214);
+  color: white;
+}
+
+.pokemon_type_dragon span{
+  border: solid 1px;
+  padding: 3px 25px;
+  border-radius: 20px;
+  border-color: rgb(89, 89, 253);
+  background-color: rgb(71, 71, 223);
+  color: white;
 }
