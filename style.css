@@ -25,11 +25,10 @@
   transform: translateY(-20px);
 }
 
-.principal_imagem{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+#principal_imagem{
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 1800px;
 }
 
 ul{
