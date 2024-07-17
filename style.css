@@ -27,8 +27,7 @@
 
 #principal_imagem{
   margin-top: 50px;
-  margin-left: 50px;
-  width: 1800px;
+  max-width: 100%;
 }
 
 ul{
